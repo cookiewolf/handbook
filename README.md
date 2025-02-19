@@ -13,7 +13,7 @@ Latest [published docs](https://cookiewolf.github.io/handbook)
 ### Setup & install
 
 - `pipenv shell`
-- `pip install --dev`
+- `pipenv install --dev`
 
 ### Dev server
 
