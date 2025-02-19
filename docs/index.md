@@ -6,8 +6,8 @@
 
 ## Membership
 
-- [Joining Cookiewolf](joining): The process for becoming a member
-- [Being a member](being-a-member): Benefits and responsibilities
+- [Joining Cookiewolf](joining.md): The process for becoming a member
+- [Being a member](being-a-member.md): Benefits and responsibilities
 
 ## Working together
 
