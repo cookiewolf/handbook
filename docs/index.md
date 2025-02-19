@@ -4,17 +4,21 @@
 
 - Ethical policy statement
 
-## Membership
-
-- [Joining Cookiewolf](joining.md): The process for becoming a member
-- [Being a member](being-a-member.md): Benefits and responsibilities
 
 ## Working together
 
-- Pay rates & profit sharing
-- Managing the business
-- Training
+### Roles
+
+#### Directors
+
+#### Members
+
+#### Collaborators
+
+### Making decisions
+
+### Pay rates & profit sharing
 
 ## Working with others
 
-- Collaboration
+### Project structure
