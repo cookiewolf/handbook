@@ -2,7 +2,7 @@
 
 Documention of process and policy
 
-Latest [published docs](https://)
+Latest [published docs](https://cookiewolf.github.io/handbook)
 
 ## Development
 ### Prerequisites
@@ -15,18 +15,24 @@ Latest [published docs](https://)
 - `pipenv shell`
 - `pip install --dev`
 
+### Dev server
+
+- `mkdocs serve`
+
 ### Build
 
-- TODO
+- `mkdocs build`
 
 ### Code & configuration
 
-This site is built with [mkdocs-material](https://squidfunk.github.io/mkdocs-material)
+This site is built on [mkdocs.org](https://www.mkdocs.org) with [mkdocs-material](https://squidfunk.github.io/mkdocs-material)
 
 #### File overview
 
 - `Pipfile` for python dependencies
 - `Pipfile.lock` for current versions of python dependencies
+- `mkdocs.yml` config for MkDocs
+- `docs/` markdown content
 - ...more TODO
 
 ## Deployment
