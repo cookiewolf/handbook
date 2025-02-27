@@ -18,7 +18,26 @@
 
 ### Making decisions
 
-### Pay rates & profit sharing
+### Pay, rates & profit sharing
+
+## Rates
+
+We bill our clients between £450 and £650 for each 6 hour day that we work. The rate depends on their means and our level of involvment in managing the project & infrastructure.
+
+## Pay
+
+We have 3 levels of pay: members, collaborators and trainees.
+
+Members are paid a base rate of £180 per day. This is topped up on a quarterly basis prorata for everyone regardless of which projects they have worked on. The amount we share out is 80% of profit for that quarter. The remaing 20% is put towards admin, hardship & contingency funds.
+
+Collaborators are paid a flat rate of £200 per day if they are helping with Cookiewolf admin and £250 per day if they are working on a billable project.
+
+Trainees are paid a minimum of £16 per hour. If they are participating as probationary members, they also receive some profit share.
+
+All member and trainee employees get 6 weeks or prorata holiday pay.
+
+All member and trainee employees receive equipment, training and travel budgets according to need.
+
 
 ## Working with others
 
