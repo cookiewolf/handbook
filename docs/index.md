@@ -36,6 +36,7 @@ We choose to support open source & ethical web services.
 - Web portfolios: carrd.io, wix, squarespace
 - E-commerce: shopify
 - Database: Airtable
+- Documentation: MkDocs
 
 ### To host
 
