@@ -25,3 +25,24 @@
 ### Project structure
 
 ## Tools we use
+
+### To build
+
+- CMS: wordpress, drupal, DeCap
+- API: no code, python Fast API, laravel
+- Web applications: elm, react
+- Web portfolios: carrd.io, wix, squarespace
+- E-commerce: shopify
+- Database: Airtable
+
+### To host
+
+- Domain management: Gandi, Cloudflare
+- Servers: Kinsta, Krystal, Cloudron
+- Static hosts: GitHub pages, Netlify
+
+### To manage
+
+- GitHub projects
+- Trello
+- Proton
