@@ -26,6 +26,8 @@
 
 ## Tools we use
 
+We choose to support open source & ethical web services.
+
 ### To build
 
 - CMS: wordpress, drupal, DeCap
@@ -46,3 +48,4 @@
 - GitHub projects
 - Trello
 - Proton
+- Whereby
