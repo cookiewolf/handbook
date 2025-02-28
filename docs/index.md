@@ -1,4 +1,4 @@
-# Cookiewolf Co-operative handbook
+# Cookiewolf Co-operative handbook (Work in progress)
 
 ## About Cookiewolf
 
@@ -48,7 +48,7 @@ Members are responsible for making the decisions that shape the co-operative. Th
 
 Collaborators invited to participate in key meetings and contribute to the decision making conversations.
 
-### Rates, pay & profit sharing (WIP)
+### Rates, pay & profit sharing
 
 #### Rates
 
