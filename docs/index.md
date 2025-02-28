@@ -94,22 +94,22 @@ We work together iteratively, constantly assessing the project's priorities with
 
 ## Tools we use
 
-We choose to support open source & ethical web services.
+Where possible, we choose to support open source & ethical web services. Our long term aim is to eliminate all others from our stack. Below are some of tools we currenly use.
 
 ### To build
 
-- CMS: wordpress, drupal, DeCap
-- API: no code, python Fast API, laravel
-- Web applications: elm, react
-- Web portfolios: carrd.io, wix, squarespace
-- E-commerce: shopify
+- CMS: Wordpress, Drupal, DeCap
+- API: No code (e.g. Zapier), Python FastAPI, Laravel
+- Web applications: Elm, React
+- Web portfolios: Carrd, Squarespace
+- E-commerce: shopify, WooCommerce
 - Database: Airtable
 - Documentation: MkDocs
 
 ### To host
 
 - Domain management: Gandi, Cloudflare
-- Servers: Kinsta, Krystal, Cloudron
+- Servers: Kinsta, Krystal, Cloudron, Siteground
 - Static hosts: GitHub pages, Netlify
 
 ### To manage
