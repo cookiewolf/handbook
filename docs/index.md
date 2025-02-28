@@ -78,6 +78,18 @@ Trainees who are participating as probationary members, also receive some profit
 
 ## Working with others
 
+Cookiewolf works with a variety of clients mainly from the charity, grassroots and arts sectors.
+
+We want to collaborate with our clients to create meaningful impact. As a co-op we will decide the criteria that is important to us when selecting projects and clients.
+
+Collaboration and training is at the core of what we deliver. We work with you to feel confident about maintaining the tools we build together.
+
 ### Project structure
+
+We work together iteratively, constantly assessing the project's priorities with clients involvement throughout. We manage projects in a way that allows us to accommodate the unexpected, in phases of discovery, definition, design, build, test. 
+
+- Long-term consultancy or development of a platform
+- One-off project work
+- On-going support and maintenance
 
 ## Tools we use
