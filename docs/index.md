@@ -17,18 +17,36 @@ We work with organisations and people to discover, design and build the digital 
 ## Working together
 
 ### Roles
+
 We operate as flat a hierarchy. We are project managers, creatives, programmers, artists and designers.
 
 #### Directors
+
 Our directors are responsible for the legalities of running the buiness. They are re-elected from members once a year. They have the same power and shareholding as members who are not directors.
 
 #### Members
+
 Our members set the strategic direction and culture of Cookiewolf. They bring in business together and share equally in the profits. They attend regular check-ins but have no minimum commitment of work hours. They take care of internal admin and client work.
 
 #### Collaborators
+
 Our collaborators have no power over our strategic decisions nor our culture, but we do invite their input. They work with us on specific projects for set periods of time.
 
 ### Making decisions
+
+We use consent rather than consensus for making decisions.
+
+#### Directors
+
+Directors provide a purely administrative function. No decisions which impact the membership are taken by directors without consultation of the members.
+
+#### Members
+
+Members are responsible for making the decisions that shape the co-operative. These are things like: long term strategic changes, big investments, inviting new collaborators, financial planning, brand control and profit distributions.
+
+#### Collaborators
+
+Collaborators invited to participate in key meetings and contribute to the decision making conversations.
 
 ### Pay rates & profit sharing
 
