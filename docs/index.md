@@ -1,4 +1,4 @@
-# Cookiewolf Co-operative handbook (Work in progress)
+# Cookiewolf Co-operative handbook (Work in progress - for illustrative purposes only)
 
 ## About Cookiewolf
 
